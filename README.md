@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi! 👋 I'm Vitaliy — Frontend Developer
 
-<!--
-**vasylykiv/vasylykiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with HTML, CSS, JavaScript, React, and modern frontend tools. Currently, I’m focused on developing skills in building responsive web apps and interactive user interfaces.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies:
+- HTML, CSS (SCSS, BEM)
+- JavaScript (ES6+)
+- React, React Router, TanStack Query
+- Firebase (Realtime DB)
+- Tailwind CSS (learning in progress)
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projects
+
+| Name | Description | Technologies | Demo |
+|------|-------------|--------------|------|
+| **ToDo App** | Task list with Firebase, React, API, and SCSS | React, Firebase, TanStack, Axios | [Go to app](https://vasylykiv.github.io/Pet-Todo-React-Firebase/) |
+
+---
+
+### 💡 Goal
+I strive to grow as a Frontend Developer, improving the quality of the interfaces I create and learning new approaches and technologies.
+
+> 📬 Open to collaboration: pet projects, open-source, freelance
+
+---
+
+### 📫 Contact
+- Email: *vasylykiv.frontend@gmail.com*
+- [Upwork Profile (when available)](https://www.upwork.com/freelancers/~0175a1803535823693?mp_source=share)
+- LinkedIn (optional)

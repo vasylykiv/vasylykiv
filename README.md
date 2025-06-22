@@ -28,6 +28,6 @@ I strive to grow as a Frontend Developer, improving the quality of the interface
 ---
 
 ### 📫 Contact
-- Email: *vasylykiv.frontend@gmail.com*
+- Email: *vasylykivit@gmail.com*
 - [Upwork Profile (when available)](https://www.upwork.com/freelancers/~0175a1803535823693?mp_source=share)
-- LinkedIn (optional)
+- instagram: https://www.instagram.com/vitaliy_vasylykiv/

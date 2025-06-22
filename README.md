@@ -5,10 +5,12 @@ I work with HTML, CSS, JavaScript, React, and modern frontend tools. Currently, 
 ### 🛠️ Technologies:
 - HTML, CSS (SCSS, BEM)
 - JavaScript (ES6+)
+- Typescipt (learning in progress)
 - React, React Router, TanStack Query
 - Firebase (Realtime DB)
 - Tailwind CSS (learning in progress)
 - Git, GitHub
+- Rust (learning in progress)
 
 ---
 

@@ -1,17 +1,29 @@
-# Hi! 👋 I'm Vitaliy — Frontend Developer
+# Hi! 👋 I'm Vitaliy — Fullstack Developer (Frontend in past)
 
-I work with HTML, CSS, JavaScript, React, and modern frontend tools. Currently, I’m focused on developing skills in building responsive web apps and interactive user interfaces.
+I work with HTML, CSS, JavaScript, React, Node.js (Express), JWT Tokens, SQL (Postgresql), Prisma ORM  and other modern tools. Currently, I’m focused on developing skills in building responsive web apps and interactive user interfaces.
 
 ### 🛠️ Technologies:
-- HTML, CSS (SCSS, BEM)
-- JavaScript (ES6+)
-- Typescipt (learning in progress)
-- React, React Router, TanStack Query
-- Firebase (Realtime DB)
-- Tailwind CSS (learning in progress)
-- Git, GitHub
+Frontend:
+  - HTML, CSS (SCSS, BEM)
+  - JavaScript (ES6+)
+  - Typescipt (learning in progress)
+  - React, React Router, TanStack Query
+  - Tailwind CSS (learning in progress)
+
 - Rust (learning in progress)
 
+Backend:
+  - Node.js
+  - Express
+  - JWT
+  - Bycrypt
+  - HTTP Headers
+  - SQL (Postgresql)
+  - Prisma orm
+
+
+- Git, GitHub
+- Firebase (Realtime DB)
 ---
 
 ### 📌 Projects
@@ -23,7 +35,7 @@ I work with HTML, CSS, JavaScript, React, and modern frontend tools. Currently, 
 ---
 
 ### 💡 Goal
-I strive to grow as a Frontend Developer, improving the quality of the interfaces I create and learning new approaches and technologies.
+I strive to grow as a Full-Stack Developer, improving the quality of the web apps I create and learning new approaches and technologies.
 
 > 📬 Open to collaboration: pet projects, open-source, freelance
 
@@ -31,5 +43,6 @@ I strive to grow as a Frontend Developer, improving the quality of the interface
 
 ### 📫 Contact
 - Email: *vasylykivit@gmail.com*
-- Upwork Profile: https://www.upwork.com/freelancers/~0175a1803535823693?mp_source=share
+- Upwork: https://www.upwork.com/freelancers/~0175a1803535823693?mp_source=share
+- Frelancehunt: https://freelancehunt.com/freelancer/vasylykivit.html 
 - instagram: https://www.instagram.com/vitaliy_vasylykiv/

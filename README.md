@@ -10,8 +10,6 @@ Frontend:
   - React, React Router, TanStack Query
   - Tailwind CSS (learning in progress)
 
-- Rust (learning in progress)
-
 Backend:
   - Node.js
   - Express

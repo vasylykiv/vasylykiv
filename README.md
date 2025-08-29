@@ -14,13 +14,13 @@ Backend:
   - Node.js
   - Express
   - JWT
-  - Bycrypt
   - HTTP Headers
-  - SQL (Postgresql)
+  - Postgresql
   - Prisma orm
 
-
+Other:
 - Git, GitHub
+- Jest
 - Firebase (Realtime DB)
 ---
 

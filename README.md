@@ -6,9 +6,9 @@ I work with HTML, CSS, JavaScript, React, Node.js (Express), JWT Tokens, SQL (Po
 Frontend:
   - HTML, CSS (SCSS, BEM)
   - JavaScript (ES6+)
-  - Typescipt (learning in progress)
+  - Typescipt
   - React, React Router, TanStack Query
-  - Tailwind CSS (learning in progress)
+  - Tailwind CSS
 
 Backend:
   - Node.js

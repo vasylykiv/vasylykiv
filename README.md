@@ -29,7 +29,7 @@ Other:
 | Name | Description | Technologies | Demo |
 |------|-------------|--------------|------|
 | **ToDo App** | Task list with Firebase, React, API, and SCSS | React, Firebase, TanStack, Axios | [Go to app](https://vasylykiv.github.io/Pet-Todo-React-Firebase/) |
-| **Ecommerce Next.js (frontend)** | This is the frontend of e-commerce application built with Next.js and a modern tech stack | [Go to app](https://github.com/vasylykiv/ecommerce_front/) |
+| **Ecommerce Next.js (frontend)** | This is the frontend of e-commerce application built with Next.js and a modern tech stack| Next.js, React, TypeScript, Tailwind CSS, Zustand, React Hook Form, Zod, React-Toastify | [Go to app](https://github.com/vasylykiv/ecommerce_front/) |
 
 
 ---

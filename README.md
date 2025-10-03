@@ -8,7 +8,7 @@ Frontend:
   - JavaScript (ES6+)
   - Typescipt
   - React, React Router, TanStack Query
-  - Tailwind CSS
+  - Tailwind CSS, Shadcn
 
 Backend:
   - Node.js

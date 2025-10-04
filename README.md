@@ -33,6 +33,7 @@ Other:
 | **Hero App React + Express.js (front-end)** | CRUD Application with React and Express.js | React, TypeScript, React Hook Form, Axios, React Dropzone, React Router | [Go to app](https://github.com/vasylykiv/hero_app_client.git) |
 | **Hero App React + Express.js (back-end)** |  CRUD Application with React and Express.js | Express.js, TypeScript, Multer, PostgreSQL(pg), Docker | [Go to app](https://github.com/vasylykiv/hero_app_server.git) |
 | **Admin Dashboard (front-end)** |  Next.js dashboard application, frontend part | Next.js, Typescript, Shadcn, React-hook-form, Zod, lucide-react, | [Go to app](https://github.com/vasylykiv/dashboard_shadcn) |
+| **Ecommerce Admin Dashboard (front-end)** |  Next.js dashboard application, frontend part | Next.js, Typescript, Shadcn, React-hook-form, Zod, lucide-react, | [Go to app](https://github.com/vasylykiv/ecommerse_dasboard_front) |
 
 
 

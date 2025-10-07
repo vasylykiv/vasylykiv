@@ -28,7 +28,7 @@ Other:
 
 | Name | Description | Technologies | Demo |
 |------|-------------|--------------|------|
-| **ToDo App** | Task list with Firebase, React, API, and SCSS | React, Firebase, TanStack, Axios | [Go to app](https://vasylykiv.github.io/Pet-Todo-React-Firebase/) |
+| **ToDo App** | Task list with Firebase, React, API, and SCSS | React, Firebase, TanStack, Axios | [Go to app](https://github.com/vasylykiv/Pet-Todo-React-Firebase) |
 | **Ecommerce Next.js (front-end)** | This is the frontend of e-commerce application built with Next.js and a modern tech stack| Next.js, React, TypeScript, Tailwind CSS, Zustand, React Hook Form, Zod, React-Toastify | [Go to app](https://github.com/vasylykiv/ecommerce_front/) |
 | **Hero App React + Express.js (front-end)** | CRUD Application with React and Express.js | React, TypeScript, React Hook Form, Axios, React Dropzone, React Router | [Go to app](https://github.com/vasylykiv/hero_app_client.git) |
 | **Hero App React + Express.js (back-end)** |  CRUD Application with React and Express.js | Express.js, TypeScript, Multer, PostgreSQL(pg), Docker | [Go to app](https://github.com/vasylykiv/hero_app_server.git) |
